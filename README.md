@@ -219,5 +219,5 @@ Meu nome é Luan Luiz da Silva, sou Desenvolvedor FullStack e aqui quero contar 
     />
 </p>
 
-### 📊 Estatística do Github
+### 📊 Estatísticas do Github
 ![Metrics](./assets/metrics.svg)
