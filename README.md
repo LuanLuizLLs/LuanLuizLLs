@@ -1,4 +1,4 @@
-****# Luan Silva
+# Luan Silva
 
 ### Desenvolvedor FullStack
 **`React` `NodeJS` `PHP`**
@@ -203,7 +203,7 @@ Iniciei minha jornada como desenvolvedor em 2017 cursando Análise e Desenvolvim
                 title="MondoDB" 
                 width="24px" 
                 style="padding: 20px;" 
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
             />
         </td>
         <td>
