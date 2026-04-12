@@ -1,4 +1,4 @@
-# Luan Silva
+****# Luan Silva
 
 ### Desenvolvedor FullStack
 **`React` `NodeJS` `PHP`**
@@ -123,16 +123,6 @@ Iniciei minha jornada como desenvolvedor em 2017 cursando Análise e Desenvolvim
         <td>
             <img 
                 align="center" 
-                alt="TypeScript"
-                title="TypeScript" 
-                width="24px" 
-                style="padding: 20px;" 
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-            />
-        </td>
-        <td>
-            <img 
-                align="center" 
                 alt="NodeJS" 
                 title="NodeJS"
                 width="24px" 
@@ -158,16 +148,6 @@ Iniciei minha jornada como desenvolvedor em 2017 cursando Análise e Desenvolvim
                 width="24px" 
                 style="padding: 20px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" 
-            />
-        </td>
-        <td>
-            <img 
-                align="center" 
-                alt="Yii" 
-                title="Yii"
-                width="24px" 
-                style="padding: 20px;" 
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" 
             />
         </td>
         <td>
@@ -214,6 +194,16 @@ Iniciei minha jornada como desenvolvedor em 2017 cursando Análise e Desenvolvim
                 width="24px" 
                 style="padding: 20px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+            />
+        </td>
+        <td>
+            <img 
+                align="center" 
+                alt="MondoDB"
+                title="MondoDB" 
+                width="24px" 
+                style="padding: 20px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
             />
         </td>
         <td>
