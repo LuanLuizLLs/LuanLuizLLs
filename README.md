@@ -218,3 +218,6 @@ Meu nome é Luan Luiz da Silva, sou Desenvolvedor FullStack e aqui quero contar 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
     />
 </p>
+
+### 📊 Estatística do Github
+![Metrics](./assets/metrics.svg)
