@@ -17,13 +17,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token de autenticação (obrigatório)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Seu usuário do GitHub
           user: LuanLuizLLs
-
-          # Nome do arquivo que será gerado
           filename: assets/metrics.svg
 
           # Desativa todas as seções padrão (foto, nome, status, etc)
@@ -35,7 +30,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_title: " "
 
           # Remove o título da seção e ajusta o layout
           config_order: languages
-          template: classic
+          config_timezone: America/Sao_Paulo
