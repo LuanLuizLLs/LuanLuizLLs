@@ -1,4 +1,4 @@
-# 👾 Luan Silva
+# Luan Silva
 
 ### Desenvolvedor FullStack
 **`React` `NodeJS` `PHP`**
