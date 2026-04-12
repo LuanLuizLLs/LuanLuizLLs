@@ -294,4 +294,4 @@ Iniciei minha jornada como desenvolvedor em 2017 cursando Análise e Desenvolvim
 
 ## 📊 Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanLuizLLs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do Github](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
