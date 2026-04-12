@@ -26,8 +26,12 @@ jobs:
           # Nome do arquivo que será gerado
           filename: assets/metrics.svg
 
+          # Desativa todas as seções padrão (foto, nome, status, etc)
+          base: ""
+
           # Plugin de linguagens de programação
           plugin_languages: yes
+          plugin_languages_type: donut
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
