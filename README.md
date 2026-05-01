@@ -2,15 +2,15 @@
 
 **`Desenvolvedor Frontend` `Desenvolvedor Backend` `Desenvolvedor Fullstack`**
 
-Meu nome é Luan Luiz da Silva, sou Desenvolvedor FullStack e aqui quero contar um pouco da minha trajetoria.
+Meu nome é Luan Luiz da Silva, sou Desenvolvedor Full Stack e aqui quero contar um pouco da minha trajetória.
 
-**🎓 2017** → Iniciei minha graduação em Análise e Desenvolvimento onde conheci tudo sobre o mundo do desenvolvimento de sistemas: Linguagens de Programação, Ferramentas de Desenvolvimento e Metodologias de Gerenciamento de Projetos.
+**🎓 2017** → Iniciei minha graduação em Análise e Desenvolvimento, onde conheci o mundo do desenvolvimento de sistemas: linguagens de programação, ferramentas de desenvolvimento e metodologias de gerenciamento de projetos.
 
-**💼 2021** → Comecei a trabalhar como freelance montando sites estáticos simples, porém sempre entregando com muita qualidade e agilidade e a partir daí recebi uma proposta de efetivação da empresa para qual prestei serviço iniciando minha carreira como Front-end.
+**💼 2021** → Comecei a trabalhar como freelancer, desenvolvendo sites estáticos simples, sempre entregando com muita qualidade e agilidade. A partir disso, recebi uma proposta de efetivação da empresa para a qual prestei serviço, iniciando minha carreira como desenvolvedor Front-end.
 
-**🔄 2022** → Após perceber que precisava de um novo lugar para evoluir profissionalemnte, consegui meu segundo emprego ainda como Front-end atuando com um sistema mais complexo e com ferramentas mais robustas de desenvolvimento.  
+**🔄 2022** → Após perceber que precisava de um novo ambiente para evoluir profissionalmente, consegui meu segundo emprego, ainda como Front-end, atuando em um sistema mais complexo e com ferramentas de desenvolvimento mais robustas.
 
-**🚀 2026** → Sigo na mesma empresa, porém recebi o desafio de atuar como FullStack em um novo produto de Crédito Próprio, sendo responsável pelo fluxo completo das entregas desde o desenvolvimento ao deploy.
+**🚀 2026** → Sigo na mesma empresa, porém recebi o desafio de atuar como Full Stack em um novo produto de crédito próprio, sendo responsável por todo o fluxo de entregas, desde o desenvolvimento até o deploy.
 
 ### 💻 Linguagens e Tecnologias
 
