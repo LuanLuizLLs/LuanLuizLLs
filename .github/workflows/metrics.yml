@@ -27,16 +27,16 @@ jobs:
           # Configurações de exibição
           config_display: large
           extras_css: |
-            h2 {
-              color: #686868;
+            * {
+              color: #686D75;
             }
 
           # Plugin de linguagens de programação
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_colors: 0:#686868, 1:#707070, 2:#787878, 3:#808080, 4:#909090, 5:#989898
-          plugin_languages_limit: 6
+          plugin_languages_colors: 0:#191919, 1:#2c2c2c, 2:#3f3f3f, 3:#545454, 4:#6a6a6a, 5:#808080, 6:#a9a9a9, 7:#d3d3d3
+          plugin_languages_limit: 8
 
           # Remove o título da seção e ajusta o layout
           config_order: languages
