@@ -21,8 +21,15 @@ jobs:
           user: LuanLuizLLs
           filename: assets/metrics.svg
 
-          # Desativa todas as seções padrão (foto, nome, status, etc)
+          # Desativa todas as seções padrão
           base: ""
+
+          # Configurações de exibição
+          config_display: large
+          extras_css: |
+            h2 {
+              color: #686868;
+            }
 
           # Plugin de linguagens de programação
           plugin_languages: yes
