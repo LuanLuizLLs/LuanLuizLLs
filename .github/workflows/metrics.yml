@@ -28,7 +28,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          plugin_languages_colors: 0:#191919, 1:#2c2c2c, 2:#3f3f3f, 3:#545454, 4:#6a6a6a, 5:#808080
+          plugin_languages_limit: 6
 
           # Remove o título da seção e ajusta o layout
           config_order: languages
