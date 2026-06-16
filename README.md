@@ -1,6 +1,6 @@
 # Luan Silva
 
-**`Desenvolvedor Frontend` `Desenvolvedor Backend` `Desenvolvedor Fullstack`**
+**`Desenvolvedor Front-end` `Desenvolvedor Back-end` `Desenvolvedor Fullstack`**
 
 Meu nome é Luan Luiz da Silva, sou Desenvolvedor Full Stack e aqui quero contar um pouco da minha trajetória.
 
