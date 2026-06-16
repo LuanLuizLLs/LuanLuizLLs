@@ -31,7 +31,10 @@ jobs:
 
           # Estilização do conteúdo
           extras_css: |
-            h2, h3 {
+            h2 {
+              color: #686D75;
+            }
+            h3 {
               color: #686D75;
             }
 
