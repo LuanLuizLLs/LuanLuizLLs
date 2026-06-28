@@ -26,13 +26,13 @@ h3 {
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.60484017931987" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="305.60484017931987" y="0" width="252.48110216131502" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="558.0859423406348" y="0" width="161.1696128099525" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="719.2555551505873" y="0" width="130.68848635054854" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="849.9440415011359" y="0" width="64.82506590856629" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="914.7691074097021" y="0" width="4.955935415679557" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="919.7250428253817" y="0" width="0.2749571746182163" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.62947142841523" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="305.62947142841523" y="0" width="252.47098013346408" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="558.1004515618794" y="0" width="161.16315148157733" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="719.2636030434567" y="0" width="130.68324701783285" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="849.9468500612895" y="0" width="64.82246705614942" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="914.769317117439" y="0" width="4.955736731041872" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="919.7250538484808" y="0" width="0.27494615151923785" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -116,7 +116,7 @@ h3 {
                                 HTML
                             </div>
                             <small>
-                                <div>14.21%</div>
+                                <div>14.2%</div>
                             </small>
                         </div>
                     </section>
